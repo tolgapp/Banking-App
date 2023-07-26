@@ -24,7 +24,7 @@ function App() {
     <div className="App">
       <section>
       <div id="notch"></div>
-      <h1>LÈ BANC DE INFLÀTION</h1>
+      <h1>BANK-ING DiBa</h1>
       <p>Lang: EN - Location: Den Haag</p>
       <div>
         <h2>Your Balance</h2>
