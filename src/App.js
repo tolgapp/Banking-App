@@ -34,8 +34,8 @@ function App() {
         <button onClick={decrease}>Auszahlen</button> 
       </div>
       <div id="app-bar">
-        <span>HOME</span>
         <span>BACK</span>
+        <span>HOME</span>
         <span>LOGOUT</span>
       </div>
       </section>
